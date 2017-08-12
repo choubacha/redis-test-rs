@@ -1,0 +1,8 @@
+[package]
+name = "redis-test"
+version = "0.1.0"
+authors = ["Kevin Choubacha <kchoubacha@weedmaps.com>"]
+
+[dependencies]
+[dependencies.redis]
+version = "*"
